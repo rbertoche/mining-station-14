@@ -1,17 +1,17 @@
-1. You [color=yellow]must be over the age of majority[/color] in your jurisdiction, which is 18 in most countries, to play.
+1. Você [color=yellow] deve ter mais de 16 anos de idade para jogar.
 
-2. This server is [color=yellow]Medium Roleplay[/color]. This means that:
+2. Este servidor é [color=yellow]Roleplay Médio[/color]. Isso significa que:
 
-   a. You should stay in-character for the character you play, listen to your boss, and [color=yellow]do your job[/color].
-   b. Your name should be reasonable and in good taste.
-   c. [color=cyan]Clones do not remember the circumstances of their death[/color] or anything observed as a ghost.
+    a. Você deve permanecer no personagem para o papel que você interpreta, ouvir seu chefe e [color=yellow] fazer o seu trabalho [/color].
+    b. Seu nome deve ser razoável e de bom gosto.
+    c. [color=cyan] Os clones não se lembram das circunstâncias de sua morte[/color] ou qualquer coisa observada como um fantasma.
 
-3. Communications should be primarily in [color=yellow]English[/color]. Phrases in other languages are allowed for roleplay purposes if they are in good taste.
+3. As comunicações devem ser principalmente em [color=yellow]Português[/color]. Frases em outros idiomas são permitidas para fins de roleplay se for de bom gosto.
 
-4. You may communicate with other players in-round using the [color=cyan]#radio[/color] voice channel on Discord, or using other means, but [color=yellow]only if all other players online are able to participate[/color]. For example, if someone arrives who cannot participate in voice chat, you must only use in-game chat.
+4. Você pode se comunicar com outros jogadores na rodada usando o canal de voz [color=cyan]#radio[/color] no Discord oficial do Mining Station 14, ou usando outros meios, mas [color=yellow] somente se todos os outros jogadores on-line puderem participar [/color]. Por exemplo, se chegar alguém que não possa participar do chat de voz por qualquer razão, você só deve usar o bate-papo no jogo.
 
-5. You [color=yellow]must not cheat[/color]. This includes using exploits, external programs, or a modified client to gain in-game advantages or lag the server. You may only connect to this server using one account (i.e. no "alts" or "multi-keying").
+5. [color=yellow]Não trapaceie[/color]. Isso inclui o uso de exploits, programas externos ou um cliente modificado para obter vantagens no jogo ou atrasar o servidor. Você só pode se conectar a este servidor usando uma conta (ou seja, sem "alts" ou "multi-keying").
 
-6. You [color=yellow]must not harass other players or their characters[/color]. You must not demean players or their characters due to their actual or perceived race, sex, gender, sexual orientation. You must not write hate speech, slurs, or bigotry.
+6. [color=yellow]Não assedie os outros ou seus personagens[/color]. Não rebaixe os jogadores ou seus personagens devido à sua raça real ou percebida, sexo, gênero ou orientação sexual. Você não deve escrever discurso de ódio, insultos ou fanatismo.
 
-7. [color=yellow]Use common sense and good taste.[/color] We are all here to have fun.
+7. [color=yellow] Use o bom senso e bom gosto.[/color] Estamos todos aqui para nos divertir.
